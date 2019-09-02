@@ -1,0 +1,9 @@
+
+.vs/
+out/
+reports/
+**/bin/
+**/obj/
+*.user
+src/**/*-help.xml
+src/**/*.help.txt
